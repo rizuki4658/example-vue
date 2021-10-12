@@ -1,0 +1,19 @@
+$--color-primary: #30bac5;
+// 007BFF
+// 8554fe
+// 6977fe
+// 31558f
+// 30bac5
+$--color-info: #007BFF;
+// 17A2B8
+$--color-success: #40EE95;
+$--color-warning: #FFC107;
+$--color-danger: #DC3545;
+$--color-text-primary: #343A40;
+$--color-text-secondary: #6C757D;
+$--color-text-placeholder: #909399;
+$--color-text-regular: #343A40;
+$--color-black: #343A40;
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
